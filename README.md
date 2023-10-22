@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello!👋 My name is Serhii Ryabish.
+### I am passionate about programming, and I am learning frontend development
+___
+>**I know such languages and tools as:**
+  > - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?colorA=gray&colorB=yellow)
+  > - ![CSS](https://img.shields.io/badge/CSS-3-orange?colorA=blue&colorB=green)
+  > - ![HTML](https://img.shields.io/badge/HTML-5-blue?colorA=orange&colorB=white)
+  > <br>
+  > <br>
+___
 
-<!--
-**RSS-2000/RSS-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### These are my best works:
+**Puzzle-game** :
+[Link to the site with the game](https://rss-2000.github.io/Puzzle-game/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
