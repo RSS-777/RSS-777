@@ -11,6 +11,5 @@ ___
 **Puzzle-game** :
 [Link to the site with the game](https://github.com/RSS-2000/Puzzle-game)
 
-**Carusel-3d** :
-[Link to Carusel-3d](https://github.com/RSS-2000/Carusel-3d)
+
 
