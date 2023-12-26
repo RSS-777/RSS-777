@@ -11,5 +11,6 @@ ___
 **Puzzle-game** :
 [Link to the site with the game](https://github.com/RSS-2000/Puzzle-game)
 
-
+**Weather site** :
+[Link to the site weather](https://github.com/RSS-777/weather-project)
 
