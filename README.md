@@ -8,6 +8,11 @@ ___
    - ![React](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
    - ![Vite](https://img.shields.io/badge/-Vite-%23007ACC?logo=vite&logoColor=white)
    - ![API](https://img.shields.io/badge/-API-ff69b4)
+   - ![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
+   - ![React Router Dom](https://img.shields.io/badge/React_Router_Dom-v6-blue?logo=react-router&labelColor=282c34)
+   - ![Formik](https://img.shields.io/badge/Formik-v2.2.9-blue?logo=formik&labelColor=teal)
+   - ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-v7.16.5-blue?logo=react&labelColor=blue)
+   - ![Yup](https://img.shields.io/badge/Yup-v0.32.11-purple)
 ___
 
 ### These are my best repositories:
