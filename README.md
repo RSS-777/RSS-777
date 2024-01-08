@@ -7,7 +7,7 @@ ___
    - ![HTML](https://img.shields.io/badge/HTML-5-blue?colorA=orange&colorB=white)
    - ![React](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
    - ![Vite](https://img.shields.io/badge/-Vite-%23007ACC?logo=vite&logoColor=white)
-   - ![API](https://img.shields.io/badge/-API-ff69b4)
+   - ![REST API](https://img.shields.io/badge/-REST%20API-green)
    - ![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
    - ![React Router Dom](https://img.shields.io/badge/React_Router_Dom-v6-blue?logo=react-router&labelColor=282c34)
    - ![Formik](https://img.shields.io/badge/Formik-v2.2.9-blue?logo=formik&labelColor=teal)
