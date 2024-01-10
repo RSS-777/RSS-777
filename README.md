@@ -1,4 +1,4 @@
-## Hello!👋 My name is Serhii Ryabish.
+## Hello!👋 I'm Serhii Ryabish.
 ### I am passionate about programming, and I am learning frontend development
 ___
 >**My Proficiency in Languages and Tools::**
