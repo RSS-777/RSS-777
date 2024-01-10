@@ -7,6 +7,8 @@ ___
    - ![HTML](https://img.shields.io/badge/HTML-5-blue?colorA=orange&colorB=white)
    - ![React](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
    - ![Vite](https://img.shields.io/badge/-Vite-%23007ACC?logo=vite&logoColor=white)
+   - ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-purple?logo=bootstrap&logoColor=white)
+   - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
    - ![REST API](https://img.shields.io/badge/-REST%20API-green)
    - ![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
    - ![React Router Dom](https://img.shields.io/badge/React_Router_Dom-v6-blue?logo=react-router&labelColor=282c34)
