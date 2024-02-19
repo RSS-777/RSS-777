@@ -2,8 +2,8 @@
 ### I am passionate about programming, and I am learning frontend development
 ___
 >**My Proficiency in Languages and Tools::**
-   - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?colorA=yellow&colorB=gray)
-   - ![CSS](https://img.shields.io/badge/CSS-3-orange?colorA=blue&colorB=green)
+   - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?colorA=yellow&colorB=gray)  ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+   - ![CSS](https://img.shields.io/badge/CSS-3-orange?colorA=blue&colorB=green) ![styled-components](https://img.shields.io/badge/styled--components-v5.3.0-purple?logo=styled-components&logoColor=white)
    - ![HTML](https://img.shields.io/badge/HTML-5-blue?colorA=orange&colorB=white)
    - ![React](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
    - ![Vite](https://img.shields.io/badge/-Vite-%23007ACC?logo=vite&logoColor=white)
