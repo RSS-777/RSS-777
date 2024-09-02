@@ -11,6 +11,8 @@ ___
    - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
    - ![REST API](https://img.shields.io/badge/-REST%20API-green)
    - ![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux&logoColor=white&labelColor=764ABC&color=764ABC)
+   - ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white&labelColor=4479A1&color=4479A1)
+   - ![Node.js](https://img.shields.io/badge/Node.js-18.0-339933?logo=node.js&logoColor=white&labelColor=339933&color=339933)
 ___
 
 ### These are my best repositories:
