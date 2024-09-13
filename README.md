@@ -1,5 +1,5 @@
 ## Hello!👋 I'm Serhii.
-### I am passionate about programming, and I am learning frontend development
+### I am passionate about programming and learning new things!
 ___
 >**My Proficiency in Languages and Tools::**
    - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?colorA=yellow&colorB=gray)  ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
