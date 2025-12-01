@@ -47,3 +47,12 @@
 - Email: serj.777.front@gmail.com
 
 ---
+
+## 📊 GitHub Activity
+>Here’s a snapshot of my contributions and activity on GitHub since 2023:
+
+<div style="display: flex; gap: 10px">
+  <img src="./assets/active_2023.png" width="33%">
+  <img src="./assets/active_2024.png" width="33%">
+  <img src="./assets/active_2025.png" width="33%">
+</div>
