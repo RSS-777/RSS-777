@@ -32,12 +32,12 @@
 
 ## 🚀 Featured Projects
 
-| Project             | Description                                                                 | Technologies                                      | Live Demo                                       |
+| Project             | Description                                                                 | Technologies                                      | Website                                    |
 | ------------------- | --------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- |
-|🍲 **Culinary Corner** | Web app for saving, editing, and managing culinary recipes with auth, admin panel, and automation features | Vue 3, TypeScript, Tailwind CSS, Pinia, Vue Router, Vee-Validate, Node.js, Express, MongoDB, JWT, Bcrypt, Multer, Sharp, Nodemailer, node-cron, Winston, dotenv| [Live Site](https://kulinarny-kutochok.com.ua/) |
-|🚗 **MY-CAR**       | Vehicle maintenance and repair tracker with user dashboard, multilingual support, light/dark theme, and admin panel | React, Redux Toolkit, React Router, React Hook Form, i18next, Styled-components, Node.js, Express, MySQL, JWT, Bcrypt, Multer, Nodemailer, node-cron, Winston, dotenv, Nginx, VPS (Ubuntu), SSL| [Live Site](https://my-car.if.ua/)|
-|🎮 **Puzzle Game**       | Simple puzzle game with timer, move tracking, and best score display. Free to play and modify | JavaScript, HTML5, CSS3 | [Play Here ](https://rss-777.github.io/Puzzle-game/)                                  |
-|🗣️ **Speak Text**      | Web app for interactive text translation and speech. Upload text files, translate words or sentences, and hear correct pronunciation. Supports light/dark themes and multilingual interface | Next.js 16, React 19, Redux Toolkit, TailwindCSS 4, i18next, react-i18next, react-pdf, mammoth, franc, translate, winston, lucide-react | [Live Demo](https://speak-text-alpha.vercel.app/) |
+|🍲 **Culinary Corner** | Web app for saving, editing, and managing culinary recipes with auth, admin panel, and automation features | Vue 3, TypeScript, Tailwind CSS, Pinia, Vue Router, Vee-Validate, Node.js, Express, MongoDB, JWT, Bcrypt, Multer, Sharp, Nodemailer, node-cron, Winston, dotenv| [🌐 https://kulinarny-kutochok.com.ua/](https://kulinarny-kutochok.com.ua/) |
+|🚗 **MY-CAR**       | Vehicle maintenance and repair tracker with user dashboard, multilingual support, light/dark theme, and admin panel | React, Redux Toolkit, React Router, React Hook Form, i18next, Styled-components, Node.js, Express, MySQL, JWT, Bcrypt, Multer, Nodemailer, node-cron, Winston, dotenv, Nginx, VPS (Ubuntu), SSL| [🌐 https://my-car.if.ua/](https://my-car.if.ua/)|
+|🎮 **Puzzle Game**       | Simple puzzle game with timer, move tracking, and best score display. Free to play and modify | JavaScript, HTML5, CSS3 | [🔗 https://rss-777.github.io/Puzzle-game/](https://rss-777.github.io/Puzzle-game/)                                  |
+|📖 **LearnReadGo**      | Web app for interactive text translation, file upload, and speech synthesis with multilingual and theme support | Next.js, Redux Toolkit, TailwindCSS, i18next| [🌐 https://learnreadgo.com/](https://learnreadgo.com/) |
 
 >📩 Additional projects available upon request (45+ projects).
 
