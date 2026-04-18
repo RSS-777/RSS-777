@@ -17,7 +17,7 @@
 - ![Node.js](https://img.shields.io/badge/Node.js-18.0-339933?logo=node.js&logoColor=white&labelColor=339933&color=339933)
 - ![REST API](https://img.shields.io/badge/-REST%20API-green)
 - ![Express](https://img.shields.io/badge/Express-4.18-000000?logo=express&logoColor=white) 
-- ![JWT](https://img.shields.io/badge/JWT-000000?logo=JSONwebtokens&logoColor=white), ![Bcrypt](https://img.shields.io/badge/Bcrypt-339933?logo=bcrypt&logoColor=white),![Multer](https://img.shields.io/badge/Multer-cc6699?logo=fileZilla&logoColor=white), ![Sharp](https://img.shields.io/badge/Sharp-ff69b4?logo=sharp&logoColor=white), ![Nodemailer](https://img.shields.io/badge/Nodemailer-ff6f61?logo=nodemailer&logoColor=white), ![node-cron](https://img.shields.io/badge/node--cron-339933?logo=node.js&logoColor=white), ![Winston](https://img.shields.io/badge/Winston-007ACC?logo=windows&logoColor=white), ![dotenv](https://img.shields.io/badge/dotenv-000000?logo=dotenv&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-000000?logo=JSONwebtokens&logoColor=white), ![Bcrypt](https://img.shields.io/badge/Bcrypt-339933?logo=bcrypt&logoColor=white),![Multer](https://img.shields.io/badge/Multer-cc6699?logo=fileZilla&logoColor=white), ![Sharp](https://img.shields.io/badge/Sharp-ff69b4?logo=sharp&logoColor=white), ![Nodemailer](https://img.shields.io/badge/Nodemailer-ff6f61?logo=nodemailer&logoColor=white), ![node-cron](https://img.shields.io/badge/node--cron-339933?logo=node.js&logoColor=white), ![Winston](https://img.shields.io/badge/Winston-007ACC?logo=windows&logoColor=white), ![dotenv](https://img.shields.io/badge/dotenv-000000?logo=dotenv&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Database:** 
 - ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white&labelColor=4479A1&color=4479A1) 
@@ -30,29 +30,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Production Projects
 
-| Project             | Description                                                                 | Technologies                                      | Website                                    |
+| Product             | Description                                                                 | Technologies                                      | Website                                    |
 | ------------------- | --------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- |
 |🍲 **Culinary Corner** | Web app for saving, editing, and managing culinary recipes with auth, admin panel, and automation features | Vue 3, TypeScript, Tailwind CSS, Pinia, Vue Router, Vee-Validate, Node.js, Express, MongoDB, JWT, Bcrypt, Multer, Sharp, Nodemailer, node-cron, Winston, dotenv| [🌐 https://kulinarny-kutochok.com.ua/](https://kulinarny-kutochok.com.ua/) |
-|🚗 **MY-CAR**       | Vehicle maintenance and repair tracker with user dashboard, multilingual support, light/dark theme, and admin panel | React, Redux Toolkit, React Router, React Hook Form, i18next, Styled-components, Node.js, Express, MySQL, JWT, Bcrypt, Multer, Nodemailer, node-cron, Winston, dotenv, Nginx, VPS (Ubuntu), SSL| [🌐 https://my-car.if.ua/](https://my-car.if.ua/)|
-|🎮 **Puzzle Game**       | Simple puzzle game with timer, move tracking, and best score display. Free to play and modify | JavaScript, HTML5, CSS3 | [🔗 https://rss-777.github.io/Puzzle-game/](https://rss-777.github.io/Puzzle-game/)                                  |
+|🚗 **MY-CAR**       | Vehicle maintenance and repair tracker with user dashboard, multilingual support, light/dark theme, and admin panel | React, Redux Toolkit, React Router, React Hook Form, i18next, Styled-components, Node.js, Express, MySQL, JWT, Bcrypt, Multer, Nodemailer, node-cron, Winston, dotenv, Nginx, VPS (Ubuntu), SSL| [🌐 https://my-car.if.ua/](https://my-car.if.ua/)
 |📖 **LearnReadGo**      | Web app for interactive text translation, file upload, and speech synthesis with multilingual and theme support | Next.js, Redux Toolkit, TailwindCSS, i18next| [🌐 https://learnreadgo.com/](https://learnreadgo.com/) |
 
->📩 Additional projects available upon request (45+ projects).
-
 ---
 
-## 📬 Contact Me
-- Email: serj.777.front@gmail.com
-
----
-
-## 📊 GitHub Activity
->Here’s a snapshot of my contributions and activity on GitHub since 2023:
-
-<div style="display: flex; gap: 10px">
-  <img src="./assets/active_2023.png" width="33%">
-  <img src="./assets/active_2024.png" width="33%">
-  <img src="./assets/active_2025.png" width="33%">
-</div>
+>📩 These are selected production systems actively used by real users. Additional internal and experimental projects are not listed here.
